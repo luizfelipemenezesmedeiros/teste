@@ -34,3 +34,7 @@ load();
 function teste(){
   alert("Capital code")
 }
+
+function teste2(){
+  
+}
